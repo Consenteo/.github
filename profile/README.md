@@ -1,150 +1,234 @@
-<div align="center">
+<a href="https://consenteo.com">
+  <img src="assets/hero.svg" width="100%" alt="Consenteo. Digital products and AI, built as one system. Built by engineers with 200+ consent implementations across 20+ jurisdictions, now delivering the full digital stack." />
+</a>
 
-  <!-- Consenteo Brand Header -->
-  <h1>🔘🟠 consenteo</h1>
-  <h3><b>Digital Products, Action-Oriented AI & System-Level Privacy</b></h3>
-  <p><i>Built by engineers with 200+ consent implementations across 20+ jurisdictions — now delivering the full digital stack.</i></p>
-
-  <!-- Brand Color Shields -->
-  <p>
-    <img src="https://img.shields.io/badge/Build-Web_%7C_Mobile_%7C_Custom_Systems-0F1E36?style=for-the-badge" alt="Build" />
-    <img src="https://img.shields.io/badge/Connect-APIs_%26_Middleware-F28C38?style=for-the-badge" alt="Connect" />
-    <img src="https://img.shields.io/badge/Automate-Actionable_AI_Agents-0F1E36?style=for-the-badge" alt="Automate" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Comply-System--Level_Privacy-F28C38?style=for-the-badge" alt="Comply" />
-    <img src="https://img.shields.io/badge/Grow-Attribution_%26_Performance-0F1E36?style=for-the-badge" alt="Grow" />
-    <img src="https://img.shields.io/badge/Sustain-Support_%26_Evolution-F28C38?style=for-the-badge" alt="Sustain" />
-  </p>
-
-</div>
+<p align="center">
+  <a href="https://consenteo.com"><img src="assets/button-site.svg" height="44" alt="Visit consenteo.com" /></a>
+  &nbsp;
+  <a href="https://consenteo.com/contact"><img src="assets/button-talk.svg" height="44" alt="Book a discovery session" /></a>
+</p>
 
 <br />
 
-## ⚡ Where Growth Stalls — And Why We Exist
+Consenteo builds websites, mobile apps, custom systems and AI agents, connects them to the platforms you already run, and engineers privacy into all of it. Consent is where we started. Today we deliver the whole digital stack, designed to work as **one connected system**.
 
-Most businesses do not lack software. They lack software that **fits how they work**, that is **connected**, that their people **actually use**, and that is capable of **acting** rather than simply storing information.
+<br />
 
-At **Consenteo**, we remove the operational bottlenecks that hold teams back:
-* ❌ **Off-the-shelf tools that don't fit** $\rightarrow$ Replaced with custom systems shaped around your exact workflow.
-* ❌ **Disconnected data islands** $\rightarrow$ Unified across CRM, ERP, accounting, and WhatsApp with zero manual re-keying.
-* ❌ **AI that never reaches operations** $\rightarrow$ Upgraded from isolated chatbots to agents that execute real work inside live systems.
-* ❌ **Surface-level compliance & broken tracking** $\rightarrow$ Engineered into the stack with server-side measurement and multi-regime privacy.
+## <img src="assets/marker.svg" height="22" alt="" /> &nbsp;Where growth stalls
 
-> **One Unified System:** Our services can be commissioned individually, but they are architected to work together. *The website and mobile app feed the core system $\rightarrow$ the core system feeds marketing $\rightarrow$ AI operates across all of them $\rightarrow$ system-level privacy governs the entire stack.*
+Most businesses do not lack software. They lack software that **fits how they work**, that is **connected**, that their people **actually use**, and that can **act** rather than simply store information.
 
----
+<table>
+  <tr>
+    <th align="left" width="42%">Where it stalls</th>
+    <th align="left">What we put in its place</th>
+  </tr>
+  <tr>
+    <td><b>Off-the-shelf tools that do not fit</b></td>
+    <td>Custom systems shaped around your process, with no workarounds or unused modules.</td>
+  </tr>
+  <tr>
+    <td><b>Disconnected systems</b></td>
+    <td>CRM, ERP, accounting and WhatsApp integrated, so nothing is re-keyed by hand.</td>
+  </tr>
+  <tr>
+    <td><b>Field teams that do not log activity</b></td>
+    <td>Voice-first apps and agents that record visits and follow-ups for them.</td>
+  </tr>
+  <tr>
+    <td><b>Work happens on mobile, systems do not</b></td>
+    <td>iOS and Android apps for customers, staff and field teams, on the same live data.</td>
+  </tr>
+  <tr>
+    <td><b>Websites that do not convert</b></td>
+    <td>Conversion-led sites where every enquiry reaches the CRM in minutes, not days.</td>
+  </tr>
+  <tr>
+    <td><b>Marketing without attribution</b></td>
+    <td>Server-side tracking and consent-aware measurement that tie spend to closed revenue.</td>
+  </tr>
+  <tr>
+    <td><b>AI that never reaches operations</b></td>
+    <td>Agents with access to live systems that take action, not chatbots that only answer.</td>
+  </tr>
+  <tr>
+    <td><b>Rising customer expectations</b></td>
+    <td>Bilingual WhatsApp and voice agents that respond instantly, around the clock.</td>
+  </tr>
+</table>
 
-## 🛠️ What We Build (Service Lines)
+<br />
+
+## <img src="assets/marker.svg" height="22" alt="" /> &nbsp;One system, eight service lines
+
+Each line can be commissioned on its own, but they are designed to work together: the website and apps feed the core system, the core system feeds marketing, AI operates across all of them, and consent governs the whole stack.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/system-map-dark.svg" />
+  <img src="assets/system-map-light.svg" width="100%" alt="Websites and mobile apps feed custom systems, which feed digital marketing. System integration, AI and custom agents, and consent and privacy run beneath all of them. Support and evolution surrounds the whole system." />
+</picture>
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏗️ Build · Websites & Digital Platforms</h3>
-      <p>Corporate sites, e-commerce, booking platforms, and customer portals. Every build is conversion-led and integrated from day one: forms route to CRM, payments to accounting, and analytics to a single reporting layer. Full bilingual <b>Arabic & English (RTL)</b> support.</p>
+      <sub><b>BUILD</b></sub><br />
+      <b>Websites and digital platforms</b><br />
+      Corporate sites, e-commerce, booking platforms and customer portals. Conversion-led and integrated from day one: forms route to the CRM, payments to accounting, analytics to one reporting layer. Bilingual Arabic and English with full right-to-left support.
     </td>
     <td width="50%" valign="top">
-      <h3>📱 Build · Mobile Applications</h3>
-      <p>Native and cross-platform <b>iOS and Android</b> apps across customer and operational use: e-commerce, loyalty, booking, on-demand services, field sales/service, delivery, and internal staff tools. Includes offline capability, push notifications, and in-app payments.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚙️ Build · Custom Systems</h3>
-      <p>Software shaped around your process rather than the reverse: web applications, <b>CRM, ERP, portals, dashboards</b>, booking, inventory, and operations platforms. Built to scale with role-based access, reporting, and <b>100% ownership of code and data</b>.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔗 Connect · System Integration</h3>
-      <p>Native integrations using vendor connectors where they exist, and custom APIs/middleware where they do not. Connecting CRM, ERP, accounting, payment gateways, <b>WhatsApp Business</b>, telephony, portals, and legacy systems.</p>
+      <sub><b>BUILD</b></sub><br />
+      <b>Mobile applications</b><br />
+      Native or cross-platform iOS and Android apps for e-commerce and loyalty, booking, on-demand services, field sales and service, delivery and internal staff use. Offline capability, push notifications and in-app payments as standard options.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Automate · AI & Custom Agents</h3>
-      <p>Agents that act inside your systems by voice or chat. Rather than just answering questions, our agents update records, create tasks, book meetings, draft documents, and trigger workflows across web, mobile, and WhatsApp.</p>
+    <td valign="top">
+      <sub><b>BUILD</b></sub><br />
+      <b>Custom systems</b><br />
+      Software shaped around your process rather than the reverse: web applications, CRM, ERP, portals, dashboards, booking, inventory and operations platforms. Role-based access, reporting, and full ownership of the code and data.
     </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ Comply · Consent & Privacy</h3>
-      <p>As Consent Management Platform (CMP) partners, we engineer data privacy and compliance at the system level across websites, mobile apps, and back-office tools—covering <b>UAE PDPL, DIFC, ADGM, GDPR, UK GDPR, and US state laws</b>.</p>
+    <td valign="top">
+      <sub><b>CONNECT</b></sub><br />
+      <b>System integration</b><br />
+      Vendor connectors where they exist, custom APIs and middleware where they do not. CRM, ERP, accounting, payment gateways, WhatsApp Business, telephony and legacy systems never designed to talk to each other.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3>📈 Grow · Digital Marketing Solutions</h3>
-      <p>Performance campaigns across search, social, and marketplaces backed by <b>server-side tracking, consent-aware measurement</b>, and end-to-end attribution. Automated lead nurturing via email and WhatsApp tied directly to closed revenue.</p>
+    <td valign="top">
+      <sub><b>AUTOMATE</b></sub><br />
+      <b>AI and custom agents</b><br />
+      Agents that act inside your systems by voice or chat: they update records, create tasks, book meetings, draft documents and trigger workflows across web, mobile and WhatsApp.
     </td>
-    <td width="50%" valign="top">
-      <h3>🔄 Sustain · Support & Evolution</h3>
-      <p>Retained engineering support, proactive monitoring, and continuous improvement after launch—including app store releases, new features, and integration maintenance. Full documentation and handover included on every project.</p>
+    <td valign="top">
+      <sub><b>COMPLY</b></sub><br />
+      <b>Consent and privacy</b><br />
+      As Consent Management Platform partners, we engineer privacy and compliance at system level across websites, apps and back-office systems, not as a banner added on top.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <sub><b>GROW</b></sub><br />
+      <b>Digital marketing</b><br />
+      Performance campaigns across search, social and marketplaces, backed by server-side tracking, consent-aware measurement and end-to-end attribution. Lead nurturing by email and WhatsApp, reported against closed revenue rather than clicks.
+    </td>
+    <td valign="top">
+      <sub><b>SUSTAIN</b></sub><br />
+      <b>Support and evolution</b><br />
+      Retained engineering support, monitoring and continuous improvement after launch, including app store releases, new features and integration maintenance. Documentation and handover on every project.
     </td>
   </tr>
 </table>
 
----
+<br />
 
-## 🧠 AI That Takes Action
+## <img src="assets/marker.svg" height="22" alt="" /> &nbsp;AI that takes action
 
-Our focus is not on isolated chatbots, but on **safe-by-design AI agents** that operate within defined role permissions, log every action they take, and request confirmation before anything irreversible.
+We do not build isolated chatbots. We build agents that **do the work** inside live systems, safe by design: they operate within role permissions, log every action they take, and ask for confirmation before anything irreversible.
 
-### Three Ways We Apply AI
-1. **Built-in AI (Inside New Systems):** Embedded directly into the platforms we deliver—document reading, data extraction, call/meeting summarisation, smart search across company knowledge, and automated drafting of quotes, emails, and reports from live data.
-2. **Custom AI Agents (Purpose-Built):** Designed around specific roles or processes. Users speak or type naturally (in English or Arabic) across web, mobile, WhatsApp, or voice to trigger actions and update records.
-3. **System Leverage (On Existing Systems):** An AI orchestration layer placed on top of the CRM/ERP systems you already own—unlocking conversational data access, automated reporting, and process automation without replacing your core software.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/agent-dark.svg" />
+  <img src="assets/agent-light.svg" width="100%" alt="Illustrative example: a sales voice note becomes four logged actions in the CRM, documents and calendar, and the quote is held for approval before it is sent." />
+</picture>
 
-| Department | What Our AI Agents Do in Live Operations |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <sub><b>01 · BUILT IN</b></sub><br />
+      <b>Inside the systems we deliver</b><br />
+      Document reading and data extraction, call and meeting summaries, search across company knowledge, and quotes, emails and reports drafted from live data.
+    </td>
+    <td width="33%" valign="top">
+      <sub><b>02 · PURPOSE-BUILT</b></sub><br />
+      <b>Custom agents</b><br />
+      Designed around a specific role or process. People speak or type naturally, in English or Arabic, on web, mobile, WhatsApp or voice.
+    </td>
+    <td width="33%" valign="top">
+      <sub><b>03 · ON WHAT YOU OWN</b></sub><br />
+      <b>An AI layer on existing systems</b><br />
+      Conversational access, reporting and automation on top of the CRM and ERP you already run, without replacing them.
+    </td>
+  </tr>
+</table>
+
+| Team | What the agent does in live operations |
 | :--- | :--- |
-| **💼 Sales** | Log visits, update deals, prepare quotes, and schedule follow-ups from a short voice note. |
-| **🎧 Customer Service** | Answer, qualify, and resolve bilingual enquiries on WhatsApp and web, then hand over with full context. |
-| **📦 Operations** | Create work orders, check stock, assign jobs, and report progress in plain language. |
-| **🧾 Finance** | Read invoices and receipts, match them to orders, and flag exceptions for review. |
-| **📊 Management** | Ask questions of live company data and receive instant answers, summaries, and on-demand reports. |
-| **👥 HR & Admin** | Handle leave requests, onboarding steps, and internal policy questions for staff. |
+| **Sales** | Logs visits, updates deals, prepares quotes and schedules follow-ups from a short voice note. |
+| **Customer service** | Answers, qualifies and resolves enquiries on WhatsApp and web in both languages, then hands over with full context. |
+| **Operations** | Creates work orders, checks stock, assigns jobs and reports progress in plain language. |
+| **Finance** | Reads invoices and receipts, matches them to orders and flags exceptions for review. |
+| **Management** | Answers questions about live company data with summaries and reports on demand. |
+| **HR and admin** | Handles leave requests, onboarding steps and internal policy questions. |
 
----
+<br />
 
-## 🔒 Privacy Built In at System Level
+## <img src="assets/marker.svg" height="22" alt="" /> &nbsp;Privacy, built in at system level
 
-Consent is where we started. Most compliance programmes stop at policy documents and a cookie banner—leaving exposure in tags that fire before consent, mobile apps that ignore user choices, and measurement that collapses after a decline. We solve this in the technology itself:
+Consent is where we started. Most compliance programmes stop at a policy document and a cookie banner, leaving exposure in tags that fire before consent, apps that ignore the user's choice, and measurement that collapses after a decline. We fix it in the technology itself.
 
-* **CMP Selection & Setup:** Configuration and rollout across websites and mobile apps with bilingual banners, geo-targeted rules, and audit-ready consent records.
-* **Consent Across the Stack:** Consent state propagated to tags, analytics, ad platforms, mobile SDKs, CRM, and marketing automation so nothing fires without a lawful basis.
-* **Measurement Integrity:** **Advanced Consent Mode v2** and **server-side tracking** so compliance never costs you reporting accuracy or conversion modelling.
-* **Data Mapping & Rights:** Mapping personal data flows, retention rules, and automated Data Subject Request (DSR) workflows (access, correction, deletion) built directly into your systems.
-* **Multi-Regime & Ongoing Governance:** Single adaptive configuration covering **UAE PDPL, DIFC, ADGM, GDPR, UK GDPR, and US state laws**, backed by baseline checklists and periodic re-testing to prevent configuration drift.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/consent-dark.svg" />
+  <img src="assets/consent-light.svg" width="100%" alt="One consent choice propagates to tag management, Consent Mode v2, ad platforms, app SDKs, server-side tracking and the CRM. Covered: UAE PDPL, DIFC, ADGM, GDPR, UK GDPR and US state laws." />
+</picture>
 
----
+- **CMP selection and setup.** Rollout across websites and apps with bilingual banners, geo-targeted rules and audit-ready consent records.
+- **Consent across the stack.** The user's choice reaches tags, analytics, ad platforms, mobile SDKs, the CRM and marketing automation, so nothing fires without a lawful basis.
+- **Measurement that survives.** Advanced Consent Mode v2 and server-side tracking keep reporting and conversion modelling accurate.
+- **Data mapping and rights.** Personal data flows, retention rules, and access, correction and deletion requests handled inside your systems.
+- **One configuration, many regulations.** UAE PDPL, DIFC, ADGM, GDPR, UK GDPR and US state laws, with periodic re-testing so the setup does not drift.
 
-## 🌍 Engineered for High-Velocity Markets
+<br />
 
-Our architecture is purpose-built for mobile-first, WhatsApp-first, bilingual environments with fast-moving regulatory standards:
+## <img src="assets/marker.svg" height="22" alt="" /> &nbsp;Built for the region
 
-* **💬 Bilingual WhatsApp & Voice Agents:** 24/7 Arabic & English qualification, appointment booking, and contextual staff handover.
-* **🏢 Automated Lead Engines:** Instant capture from portals, campaigns, and web into a unified CRM with automated routing and follow-up.
-* **🧾 E-Invoicing & ERP Readiness:** ERP and accounting integration with AI-assisted invoice processing and automated data extraction.
-* **🎙️ Voice-First Field Service Apps:** Mobile apps where field sales, maintenance, and logistics teams report and update jobs by voice.
-* **🏨 Concierge, Loyalty & Multi-Entity ERPs:** Connected hospitality reservation agents, branded iOS/Android loyalty apps, and consolidated multi-branch ERP platforms.
+Our home market is mobile-first and WhatsApp-first, with a bilingual workforce and fast-moving regulation. The solutions we are asked for most reflect that.
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>Bilingual WhatsApp and voice agents</b><br />Arabic and English agents that qualify enquiries, book appointments and hand over to staff with context, around the clock.</td>
+    <td width="50%" valign="top"><b>Lead engines</b><br />Leads from portals, campaigns and the website captured in one CRM, routed instantly and followed up automatically.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>E-invoicing and ERP readiness</b><br />ERP and accounting integration with AI-assisted invoice processing and data extraction.</td>
+    <td valign="top"><b>Voice-first field service apps</b><br />Field sales, maintenance and logistics teams report and update jobs by voice, in either language.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Concierge and loyalty</b><br />Reservation agents for hospitality and branded iOS and Android loyalty apps for retail and F&amp;B groups.</td>
+    <td valign="top"><b>ERP for multi-entity groups</b><br />Operations platforms for groups with several brands, branches or entities, with consolidated reporting and AI on top.</td>
+  </tr>
+</table>
 
-## 🚀 How We Engage & Expected Outcomes
+<br />
 
-Work begins with a defined operational problem rather than a predetermined technology choice. Each stage can be commissioned independently:
+## <img src="assets/marker.svg" height="22" alt="" /> &nbsp;How we engage
 
-| Stage | Purpose | Deliverable / Output |
-| :--- | :--- | :--- |
-| **01 · Discovery** | Map processes, systems, and operational bottlenecks | Findings report & prioritised architectural roadmap |
-| **02 · Pilot** | Prove one AI agent or system integration in live use | A working solution for one team or workflow |
-| **03 · Full Build** | Deliver the complete platform or compliance programme | Production system, documentation, and team training |
-| **04 · Retained Support** | Maintain, monitor, and extend after launch | Agreed SLA hours and continuous evolution |
+Work begins with a defined problem rather than a technology choice. Each stage can be commissioned on its own, and none commits you to the next.
 
-### Why Teams Choose Consenteo
-* 🔗 **One Connected Operation:** Website, apps, marketing, CRM, and back office share the same live data.
-* 🗣️ **Systems People Actually Use:** Voice and chat interfaces remove the manual data-entry burden.
-* 🌐 **Built for the Region:** Bilingual by design (EN/AR), WhatsApp-native, and aligned with local & global privacy laws.
-* 🔑 **Ownership & Flexibility:** You own 100% of the code and data for every custom system we build.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/engage-dark.svg" />
+  <img src="assets/engage-light.svg" width="100%" alt="01 Discovery: findings and a prioritised roadmap. 02 Pilot: a working solution for one team. 03 Full build: production system, documentation and training. 04 Retained support: agreed hours and response commitments." />
+</picture>
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>One connected operation</b><br />Website, apps, marketing, CRM and back office share the same data, so every team works from one accurate view of the customer.</td>
+    <td width="50%" valign="top"><b>Systems people actually use</b><br />Voice and chat remove the data-entry burden, the most common reason business systems are not adopted.</td>
+  </tr>
+  <tr>
+    <td valign="top"><b>Built for the region</b><br />Bilingual by design, WhatsApp-native, and aligned with local and international privacy regulations.</td>
+    <td valign="top"><b>Ownership and flexibility</b><br />You own the code and data of every custom system we build. Where existing systems are sound, we extend them rather than replace them.</td>
+  </tr>
+</table>
 
-<div align="center">
-  <sub><b>Consenteo</b> · Engineering, AI & Privacy Architecture</sub>
-</div>
+<br />
+
+<a href="https://consenteo.com/contact">
+  <img src="assets/footer.svg" width="100%" alt="Consent is where we started. Now we build the whole system. consenteo.com" />
+</a>
+
+<p align="center">
+  <sub>
+    <a href="https://consenteo.com">consenteo.com</a> &nbsp;·&nbsp;
+    <a href="https://consenteo.com/contact">Contact</a> &nbsp;·&nbsp;
+    <a href="https://consenteo.com/free-audit">Free consent audit</a>
+  </sub>
+</p>
